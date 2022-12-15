@@ -1,4 +1,5 @@
 # authentication-backend
+LOGIN , REGISTER, LOGOUT, JWT, cookies
 
 create .env file with following token name
 PORT=5000
